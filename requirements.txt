@@ -1,0 +1,6 @@
+streamlit
+beautifulSoup
+requests
+datetime
+csv
+timedelta
